@@ -1,0 +1,11 @@
+{
+  "name": "nodebb-theme-aerogarden",
+  "version": "0.0.0",
+  "description": "Custom theme for aerogarden code challenge",
+  "main": "theme.less",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "nodebb-theme-vanilla": "^11.2.4"
+  }
+}

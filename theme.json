@@ -1,0 +1,10 @@
+{
+  "id": "nodebb-theme-aerogarden",
+  "name": "AeroGarden Code Challenge",
+  "description": "Code challenge for Aerogrow",
+  "url": "https://github.com/jvandy83/AeroGarden-Code-Challenge.git",
+  "baseTheme": "nodebb-theme-vanilla",
+  "screenshot": null,
+  "templates": "templates",
+  "staticDir": "static"
+}
